@@ -14,18 +14,10 @@ We approach AI not as a buzzword, but as a practical lever for smarter consultin
 
 | Repo | Description |
 |------|-------------|
-| [`interview-analysis`](https://github.com/undconsorten/interview-analysis) | LLM-powered batch analysis of qualitative interviews — systematic, scalable, and integrated into Langdock as a custom action |
-| [`ai-visibility-dashboard`](https://github.com/undconsorten/ai-visibility-dashboard) | Streamlit dashboard tracking AI visibility metrics |
-| [`plex-deepres`](https://github.com/undconsorten/plex-deepres) | Deep research automation via Perplexity, deployed on Railway |
-| [`ppt-corrector`](https://github.com/undconsorten/ppt-corrector) | AI-assisted PowerPoint spelling & grammar correction tool |
+
+| [`ai-visibility-dashboard`](https://github.com/undconsorten/ai-visibility-dashboard) | Dashboard for tracking AI visibility metrics |
+| [`plex-deepres`](https://github.com/undconsorten/plex-deepres) | Deep research tool to utilize Perplexity |
 | [`ocr-prototype`](https://github.com/undconsorten/ocr-prototype) | OCR prototype for document digitization workflows |
-
-**Our AI engineering approach:**
-
-- **Enterprise AI platform:** [Langdock](https://langdock.com) as our internal AI backbone — with custom actions, MCP servers, and bespoke agents on top
-- **Stack:** Python · Streamlit · Azure OpenAI · Railway (deployment) · GitHub
-- **Philosophy:** Practical, consultant-grade AI tools that solve real problems — rapidly prototyped, iteratively improved, and embedded into daily workflows
-- **Infrastructure:** Azure OpenAI endpoint for secure, enterprise-grade LLM access within the DACH consulting context
 
 ---
 
